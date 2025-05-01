@@ -1,7 +1,7 @@
 # googlemaps
 
 A new Flutter project.
-
+git remote add origin https://github.com/Hasnain9877/googlemapsnew.git
 ## Getting Started
 
 This project is a starting point for a Flutter application.
