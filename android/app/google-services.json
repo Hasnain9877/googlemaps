@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "103250250197",
+    "project_id": "projet-eupheme",
+    "storage_bucket": "projet-eupheme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103250250197:android:fbe842895aa3a53619955c",
+        "android_client_info": {
+          "package_name": "com.dbsAuto.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103250250197-7q8qds5l7s0thijo872tn81rarvu13v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jjWlouF_S8EIWelx953A1U2lBZdwh7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103250250197-7q8qds5l7s0thijo872tn81rarvu13v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103250250197:android:7a1e76ea34d3c51119955c",
+        "android_client_info": {
+          "package_name": "com.map.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103250250197-7q8qds5l7s0thijo872tn81rarvu13v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jjWlouF_S8EIWelx953A1U2lBZdwh7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103250250197-7q8qds5l7s0thijo872tn81rarvu13v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
